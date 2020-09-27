@@ -1,0 +1,1 @@
+fun String.hello(): String = "Hello, $this"
